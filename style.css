@@ -1,0 +1,31 @@
+*{
+    background-color: rgb(8, 2, 46)
+}
+nav,.hi,a{ 
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    font-size:15px;
+    text-decoration: none;
+    color:white;
+   
+    
+}
+.demo{
+    display: flex;
+    justify-content: space-around;
+
+}
+.bye{
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    background-color: red;
+}
+i{
+    border:1px solid red;
+    padding:3px;
+    border-radius:200px;
+    color:red
+}
